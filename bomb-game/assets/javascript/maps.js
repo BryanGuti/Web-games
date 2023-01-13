@@ -91,7 +91,7 @@ maps.push(`
 `);
 
 maps.push(`
-  X---------
+  X---X-----
   --X-XXXXX-
   -XX-XXXXX-
   -XX-XXX---
